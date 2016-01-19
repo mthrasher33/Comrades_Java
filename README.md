@@ -8,4 +8,11 @@ Communist profiles are pulled from Wikipedia using JSoup, a Java web scraping ut
 The chat feature allows user to enter whatever message they want. Communists respond to chats with a sentence pulled from their Wikipedia page. 
 The project deploys an MVC architecture, web scraping, polymorphism, enums, and Java Swing. 
 
-![Registration View](http://imgur.com/z0aZt05)
+# Registration View
+![](https://cloud.githubusercontent.com/assets/5924709/12435634/583664c4-bed4-11e5-91ef-a59658d0f7bc.png)
+
+# List View 
+![](https://cloud.githubusercontent.com/assets/5924709/12435636/5b1bf10e-bed4-11e5-922a-49962f4c5f71.png)
+
+# Profile View
+![](https://cloud.githubusercontent.com/assets/5924709/12435638/5d6d0088-bed4-11e5-99ea-12930cba4c26.png)
